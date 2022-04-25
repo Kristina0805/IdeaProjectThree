@@ -7,10 +7,10 @@ public class Main {
 
         int check = 250;
         int replenishment = 1350;
-        boolean The_account_was_replenished_with_more_than_a_thousand_rubles = true;
+        boolean ReplenishmentOfMoreThanAThousand = true;
 
         int bonus;
-        if (The_account_was_replenished_with_more_than_a_thousand_rubles) {
+        if (ReplenishmentOfMoreThanAThousand) {
             bonus = 1;
         } else {
             bonus = 0;
